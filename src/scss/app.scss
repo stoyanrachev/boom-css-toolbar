@@ -27,3 +27,10 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+.navbar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  
+}
